@@ -1,0 +1,154 @@
+In these nighted halls, doom and glory bloom eternal. This is the story of the Shadowdark.
+They were CRAWLERS, and so they dared the lost halls of the Shadowdark. Both the wise and foolish risk their fortunes within. The darkness decides who is who.
+Ancestry defines your character's cultural and ancestral heritage.
+The Shadowdark is any place where danger and darkness hold sway. Will you dare to seek it out? Can you survive within?
+As you gain levels, your prestige grows. You will gain titles that let all know you have been tested and proven worthy.
+Strength helps you to fight with a sword, bash open doors, and swim.
+Dexterity can help you to shoot a bow, balance on a ledge, sneak silently, and hide.
+Constitution will let you hold your breath, resist poison, and endure injuries.
+Intelligence helps you to cast wizard spells, decipher runes, and learn new skills.
+Wisdom lets you cast priest spells, detect the hidden, and recognize omens.
+Charisma helps you to convince creatures to be friendly, and resist mental control.
+Dwarves are brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.
+Elves are ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.
+Goblins are green, clever beings who thrive in dark, cramped places. They are as fierce as they are tiny.
+Half-orcs are towering, tusked warriors who are as daring as humans and as relentless as orcs.
+Halflings are small, cheerful country folk with mishievous streaks. They enjoy life's simple pleasures.
+Humans are bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.
+And so the Primordial Age ended, and the gods fled. In their place rose mortals, and they scattered the earth with their shining kingdoms and lost ruins...
+Blood-soaked gladiators in dented armor, acrobatic duelists with darting swords, or far-eyed elven archers who carve their legends with steel and grit...Fighters are the masters of melee combat.
+"Nothing swings sweeter than a whistling axe!" - Jorbin, dwarf fighter
+Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy...Priests confer with the divine and deadly powers of the gods.
+Rooftop assassins, grinning con artists, or cloaked cat burglars who can pluck a gem from the claws of a sleeping demon and sell it for twice its worth...Thieves move in the shadows and strike when least expected.
+Rune-tattooed adepts, bespectacled magi, and flame-conjuring witches who dare to manipulate the fell forces of magic...Wizards tap into the raw powers of the universe.
+Cursed warrors who walk an unholy path, the fallen and possessed who embrace the darkness in order to fight it, ...the Knights of St. Ydris cleanse evil with a flurry of steel and forbidden sorcery.
+Howling warriors with sharpened teeth, wild-eyed doomspeakers preaching of the Dissolution...Warlocks are cloaked lore-hunters bearing the hidden mark of their Patron.
+Milky eyed cackling crones stooped over boiling cauldrons, chanting shamans smeared in blood and clay...Witches are the outcast that see portents and secrets.
+Chaotic characters align themselves with destruction, ambition, and wickedness. Chaotic characters adopt a "survival of the fittest" mentality.
+Lawful characters align themselves with fairness, order, and virtue. Lawful characters operate from a "good of the whole" mentality.
+Neutral characters find balance between Law and Chaos. They align with the cycle of growth and decline, adopting a "nature must take its course" mentality.
+Most folk worship one of the Four Lords, the lawful and neutral gods who stand for justice, order, and mercy.
+Malevolent beings worship one of the Dark Trio, chaotic dieties who evince power, destruction, and cruelty.
+The Lost are forbidden and forgotten, the two gods still counted among the Nine in ancient oaths and stories. Their names are lost to the ages, expunged from history and memory. 
+Saint Terragnis is a legendary knight who is the patron of most lawful humans. She ascended to godhood long ago and is the embodiment of righteousness and justice.
+Gede is the god of feasts, mirth, and the wilds. Gede is usually peaceful, but primal storms rage when her anger rises. Many elves and halflings worship her.
+Madeera was the first manifestation of Law. She carries every law of reality, a dicate called the Covenant, written on her skin in precise symbols.
+Ord is the Unbending, the Wise, the Secret-Keeper. He is the god of magic, knowledge, secrets, and equilibrium.
+Memnon was the first manifestation of Chaos. He is Madeera's twin, a red-maned, leonine being whose ultimate ambition is to rend the cosmic laws of the Covenant from his sister's skin.
+Ramlaat is the Pillager, the Barbaric, the Horde. Many orcs worship him and live by the Blood Rite, a prophecy that says only the strongest will survive the coming doom.
+Shune the Vile whispers arcane secrets to sorcerers and witches who call to her in the dark hours. She schemes to displace Ord so she can control the vast flow of magic herself.
+"Language is the key to the most important doors." - Creeg, human wizard
+Your armor class (AC) is 10 + your Dexterity modifier. Wearing armor changes your AC.
+Your backpack holds all the gear you can carry. Don't lose it. The only thing more important is your torch and your wits.
+You can carry a number of items equal to your Strength stat or 10, whichever is higher. Unless noted, all gear besides typical clothing fills one gear slot. Some gear can require more than one slot.
+Finesse (F) weapons let you use either your STR or DEX when attacking.
+Weapons with the Lash (La) property let you make a ranged attack without the weapon leaving your grasp.
+Sundering (S) weapons and armor can be destroyed when you are hit to negate all damage from the attack.
+Weapons with the Loading (L) property require you to forgo moving to reload.
+Thrown (Th) weapons can be used to make ranged attacks using either your STR or DEX.
+Two-handed (2H) weapons require you to use both hands when wielding them.
+Breakable (B) weapons break on a natural 1 attack roll.
+Weapons with the Returning (R) property return to the thrower on a missed ranged attack.
+Versatile (V) weapons can be used with one or two hands. Use the higher damage die if you're wielding it with two hands.
+Melee weapons (M) strike at arm's reach. Range weapons (R) strike at a distance.
+"Whoever named you sure got it right." - Raina, halfling thief, to Rotbreath the Troll
+Experience Points (XP) represents your learning, influence, and skill. XP is awarded based on the quality of the treasure and boons gained during a session.
+"Certain doom is a challenge, not a promise." - Iraga, half-orc priest
+"What you call wizardy, I call faith. But in either case, it's our dedication that fuels it." - Iraga, half-orc priest, to Creeg, human wizard
+Spellcasters use the raw power of creatuion and destruction to bend reality, shaping it to will of their gods or ambitions.
+Wizard magic is fickle, complicated, and volatile. Even the most learned mages tread carefully when reaching beyond the veil to grasp arcane energies.
+Priese magic is miraculous, sacred, and instinctive. Priests who offend their gods might lose the ability to cast spells until they can understake penance.
+Scrolls and wands contain magic spells that spellcasters can use to cast these spells if it is available in their spell list (even if they don't know the spell).
+Some spells last for as long as you focus. You can't cast other focus spells while focusing, but you can end a focused spell at any time.
+Ongoing effects of the same spell on the same target do not combine. The spell with the most powerful effect takes precedence.
+"Magic is simply the art of doing and undoing." - Creeg, human wizard
+The Shadowdark is like a sleeping bear. Only go near it if you have a 10-foot pole and are prepared to die.
+Beyond the threshold, deep within the Shadowdark, heaps and piles of gold and jewels glittered in the torchlight like a thousand spider eyes.
+Those who dare the lost halls and caverns of the Shadowdark are called many names. Crawlers, delvers, explorers, adventurers, treasure hunters...fools.
+When you have advantage on a roll, it means you're in a strong position to succeed.
+When you have disadvantage on a roll, it means you're in a strong position to fail. 
+When a d20 die roll results in a 20, what you're doing succeeds to your maximum capacity. For example, an attack roll automatically hits.
+When a d20 die roll results in a 1, what your doing fails to your maximum capacity. For example, an attack roll automatically misses.
+If there's a random chance for an outcome, the GM may call for a d6 Decider roll. A 1-3 results in the worse outcome for the players, and a 4-6 results in the better one.
+Sometimes the GM awards a luck token to a player for exceptional roleplay, heroism, or just plain coolness. You can cash in these tokens to reroll any you roll you just made. Big sacrifices, moving speeches, or incredibly daring maneuvers might be worthy of luck tokens, whether or not the characters' actions were successful.
+The difference between Intelligence and Wisdom can be tricky. When in doubt, remember that Wisdom is for sensory acuity and instinct, while Intelligence covers knowledge and logic.
+Time passes in the Shadowdark at the same pace it's passing in the real world. One hour of game time is equal to one hour in real time.
+Distances are broken up into close (5 feet), near (up to 30 feet), and far (within sight).
+Injured characters can rest to recover from wounds. To rest, a character must consume a ration and sleep for 8 hours. A character who successfully rests regains all lost hit points and recovers any stat damage.
+Creatures who are hiding or sneaking must succeed on a DEX check to go undetected. 
+Creatures can't hide while other creatures are able to see them, even at a casual glance.
+Detecting a hidden or sneaking creature requires the searcher to actively look or listen.
+A creature who begins its turn undetected has the advantage of surprise. If combat hasn't started, those with surprise take one turn before the combat initiative roll. Creatures also have advantage on attack rolls against surprised targets.
+Enemies may choose to flee from combat if their numbers are drastically reduced. 
+A character who goes to 0 HP falls unconscious and is dying. Dying characters roll 1d4 + CON modifier on their turn to determine their death timer. They die in that many rounds unless healed or stabilized (minimum 1 round).
+If you character perishes, they are retired from the game.
+Character's can give first aid to dying creatures at close range. On a successful DC 15 INT check, the target stops dying but remains unconscious.To wake up, the creature must go above 0 HP.
+Between adventures, you can choose to undertake one downtime activity. Choose carefully betwween carousing or learning. 
+Carousing is a way for you to convert the coin you've earned into XP and other benefits. When you return fom the Shadowdark, you can carouse to celebrate your heroic exploits by drinking, gambling, and raucous festivity!
+Your character may wish to learn a new skill during downtime. Seek out a capable instructor who is willing to teach you.
+In smokly gambling dens, raucous taverns, and dim back alleys, the clatter of dice can be heard. The most beloved game by gamblers of all stripes is a fast-paced betting game known as Wizards and Thieves.
+At times, the Shadowdark seemed sentient in its malevolence. It was as though some hand guided it.
+"A game world without death is one without risk or tension." - Kelsey Dionne
+Casting spells comes with great risk. Magic items are volatile. Fights are fast and unfair. Monsters are insidious. Danger is everywhere. Welcome to the Shadowdark.
+The treasure you find has four categories: Poor (mundane), Normal (good), Fabulous (incredible), and Legendary (mythic).
+"Crypt of the Blighted Wastes? Sounds delightful." - Creeg, human wizard
+"Some horrors that writhe and creep in the darkness were never meant to be seen by our eyes." - Creeg, human wizard
+The beast was dripping with fungus, mottled with mold. Barnacles crusted its damp hide in a beard of green icicles that scraped along the floor and snapped like fingers of chalk. It floated slowly, aimlessly, its ten eyestalks writhing and thrashing as if being electrocuted.
+"I tell ye, its head split open into nine rows of teeth, and it was flyin' around like a bat. Never seen such a goblin!" - Jorbin, dwarf fighter
+"Long have I held the weighty secrets of Gehemna, an age-old litany inscribed upon my weary soul." - Mordanticus the Flayed
+"The stars told me of your arrival here many eons ago, long before the first of your people walked the earth." - Rathgamnon
+"The moon runs red into the sea, and the whispers of the watchers in darkness proclaim" Your time has come!" - The Ten-Eyed Oracle
+"Fancy meeting you here, at the bottom of the pit trap! I just so happen to have this lovely rope for sale..." - The Wandering Merchant
+"What's the big deal? He's not using it." - Ralina, halfling thief, prying a ruby eye from a skull
+At the bottom of the pit, the halfling stood before a black pedestal. She lifted a sparkling, grapefruit-sized sapphire overhead. Behind her, the pedestal sank into the floor as a clockwork grinding began to reverberate through the stone walls.
+"Copper is worth trouble. Silver, suffering. Gold? Death!" - Jorbin, dwarf fighter, reciting a dwarven proverb
+Boons are non-monetary sources of value or benefit. They include Oaths, Secrets, and Blessings.
+"That rock with wings really was quite useful after all." - Creeg, human wizard, triggering a magical trap from afar
+"Saint Terragnis wore this armor to fight the Legion of the Ninth Circle. She triumphed that day; so will we." - Iraga, half-orc priest
+"There's nothing better than a cheese, a pipe, and a story." - Ralina, halfling thief, relating a halfing saying
+"Roll high and dont' die!" - Kelsey Dionne
+"Fear is a knife that lives in the hearts of all mortals. I shall teach you to pluck it out, and wield it." - The Willowman to a petitioner
+Patrons are eldritch beings of immense power who gift magical ability and boons to mortals who petition their favor.
+Almazzat is a wolf-headed arch-demon with six eyes and six horns. He seeks to wrest the Sands of the Ages from his father, Kytheros.
+Kytheros is the Lord of Time who sees all possible futures. He seeks the fulfillment of all destinies as they were meant to be.
+Mugdulblub the Elder Ooze leaks between teh cracks in memory and the darkness between stars. It seeks the dissolution of all physical form.
+Shune the Vile, the Mother Witch, speaks to her children in the flicker of candles and the rattle of dry bones. Shune seeks hidden secrets and lost lore.
+Titania the fickle Queen of the Fey views all of existence as a whimsical dream with hidden meaning and poignant drama. She seeks mischief, beauty, and artistry.
+The Willowman is a ghostly, elongated being who stalks misty forests and watches from the edges of nightmares. He seeks only fear.
+"Those who serve me well learn the true depths of power. Those who fail learn the true depths of pain. Which will you be, mortal?" - Shune the Vile
+"May your way be lit by your very dim wit!" - Witch curse
+"The gods made these woods for demon-kind, not us." - Gurney Tullins, hunter from Wardenwood
+"By the time you see one skrell, it's already too late." - Marianne Higgins, fisher from Marin's Hold
+"The Dissolution is nigh! All shall become one!" - Gordock Breeg, servant of Mugdulblub
+The basic tenets of Shadowdark are speed, danger, and simplicity. Magic is perilous, and battles are fast and deadly. Being clever is crucial for survival.
+The Gloaming is an ancient forest where black trees tower over mossy standing stones and mist-addled bogs. Here, fragile bastions of mankind cluster behind torchlit palisades and pray for deliverance from the demons that hatch from the forest's cursed marrow trees.
+Beware the Djurum, a vast, shimmering desert where red mountains stand silent watch over windblow valleys and undulating sand dunes. Merchant caravans pick their way between fragile oases that dot the wastes, hoping to evade the paths of mountain bandits, howling sandstorms, or the skyborn death of the Scourge.
+"It is through trials of blood, fire, and terror that you will find the wellspring of your power." - Manazusa, leader of the Ras-Godai
+Howling barbarians thundering across the sand on wild horses, elven spies wielding curved blades atop silvery camels...Desert Riders are bandits wrapped in colorful silks racing atop sleek stallions.
+Blood-soaked warriors circling each other in a roaring arena, scarred bandits dueling for the right to lead their gang...Pit Fighters are brutal brawlers who never turn down a challenge.
+"It's over when I SAY it's over!" - Markesh, human pit fighter
+Black-clad assassins, savage swordsmen trained from childhood in hidden monestaries...Ras-Godai gain sorcerous powers from a legendary black lotus flower rumored to have been gifted them by a demon.
+"What is best in life? Hrmph. Winning." - Brom, half-orc pit fighter
+Tinctures, powders, oils, and gases. Poisons come in all varieties and virilities, distilled from countless flowers, creatures, and fungi. They are almost always difficult to procure and illegal to possess.
+"Better to spill blood than water." - A desert rider saying
+"Keep an ear to the ground and an eye to the sky." - Common travelers' saying in the Djurum
+"Neither I nor my servants can legally kill my brother. You, on the other hand..." - Malik the Cunning, efreeti prince
+The Isles of Andrik are ice-rimed with plunging fjords and towering peaks. Drakes nestle high in these forboding mountains, and the mythical dverg toil deep within their roots.
+"May the stories they tell of you outnumber all the grains of sand before us!" - Kelsey Dionne
+"Go now, and earn your place at Odin's feast in the Great Hall of Valhalla!" - Kelsey Dionne
+"..and the northmen stood fast, shields arrayed into a wall that a thousand arrows rained against, harmless..." - Passage from the letters of the Fall of Sagronne
+Seafaring raiders who prowl the isles in dragon-headed longboats, when their warhorns sound the Sea Wolves become fierce berserkers and shield maidens who seek to please their gods with a brave death.
+Baleful diviners who reek of smoke and blood, Seers untangle the whispers of the gods by reading runes, bones, and the stars.
+"We set sail with the midnight sun!" - Sea Wolf, preparing or raiding season
+Swearing an oath before the gods must be done aloud in front of a seer or a peer. One should never swear such an oath lightly, because they come with great consequences. Fulfilling and oath brings the gods' favor, but failing it brings down their wrath.
+"Let the endless chatter in your mind fade. In the silence, you will hear the whispering of the gods." - Egrid, Seer of Valthis
+"A land of blood and magic, of wolves and ice. You could no sooner conquer the sea itself." - Sir Aethlin Renford, knighte of St. Terragnis
+"When drakes fly, northmen die." - Saying in the Isles of Andrik
+"Leave this place. Skorgald's gold is mine to claim!" - Garatha, Skorgald's last descendant
+"And don't forget to always sleep with one eye open!" - Kelsey Dionne
+"There is no place in this jungle that has not felt the passing of my feet." - Zimul, human ranger
+Blazing-eyed warriors who cat their skin in mud and stone...Basilisk Warriors mimic the basilisk's regal poise and ferocious strikes.
+"A stone does not feel. Or bleed. Or die." - Basilisk Warrior saying
+Skilled trackers, stealthy wanders, peerless warriors...Rangers call the wilds their home.
+"Ye brought a whole month of supplies, eh? Ye'll be eating shoe leather in two weeks." - Gorly Barrelbones, dwarf ranger
+"This is the only place in the jungle to see skandrill! But you'll probably be dead before you realize they're there." - Dimitri, rare bird researcher
