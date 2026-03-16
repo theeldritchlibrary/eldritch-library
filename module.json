@@ -1,0 +1,146 @@
+{
+  "id": "eldritch-library",
+  "title": "Eldritch Library",
+  "version": "1.0.0",
+  "manifest": "https://github.com/theeldritchlibrary/eldritch-library/releases/latest/download/module.json",
+  "download": "https://github.com/theeldritchlibrary/eldritch-library/releases/download/1.0.0/eldritch-library.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>A collection of Shadowdark RPG resources maintained by the Eldrtich Libary.</p>",
+  "authors": [
+    {
+      "name": "Eldritch Library",
+      "discord": "EldritchLibrarian",
+      "email": "jaimechambers@gmail.com",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "adventures",
+      "label": "Adventures",
+      "path": "packs/adventures",
+      "type": "Adventure",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "playlists",
+      "label": "Playlists",
+      "path": "packs/playlists",
+      "type": "Playlist",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journal-entries",
+      "label": "Journal Entries",
+      "path": "packs/journal-entries",
+      "type": "JournalEntry",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rollable-tables",
+      "label": "Rollable Tables",
+      "path": "packs/rollable-tables",
+      "type": "RollTable",
+      "system": "shadowdark",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Eldritch Library",
+      "sorting": "a",
+      "color": "#000000",
+      "packs": [
+        "actors",
+        "adventures",
+        "items",
+        "journal-entries",
+        "macros",
+        "playlists",
+        "rollable-tables",
+        "scenes"
+      ],
+      "folders": []
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
