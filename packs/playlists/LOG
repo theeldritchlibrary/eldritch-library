@@ -1,15 +1,8 @@
-2026/03/17-09:11:49.128753 175633000 Recovering log #35
-2026/03/17-09:11:49.129281 175633000 Delete type=3 #33
-2026/03/17-09:11:49.129347 175633000 Delete type=0 #35
-2026/03/17-09:52:06.025749 16f387000 Level-0 table #41: started
-2026/03/17-09:52:06.026050 16f387000 Level-0 table #41: 2161 bytes OK
-2026/03/17-09:52:06.026251 16f387000 Delete type=0 #39
-2026/03/17-09:52:06.026896 16f387000 Manual compaction at level-0 from '!playlists!UnXEpUAlNZUuVd5C' @ 72057594037927935 : 1 .. '!playlists.sounds!p8lvOOSyx9xVyMUE.m3kpa5hk5iXkdbFn' @ 0 : 0; will stop at (end)
-2026/03/17-09:52:06.027698 16f387000 Manual compaction at level-1 from '!playlists!UnXEpUAlNZUuVd5C' @ 72057594037927935 : 1 .. '!playlists.sounds!p8lvOOSyx9xVyMUE.m3kpa5hk5iXkdbFn' @ 0 : 0; will stop at '!playlists.sounds!tOfycvhKW8uEwi8J.m3kpa5hk5iXkdbFn' @ 67 : 0
-2026/03/17-09:52:06.027706 16f387000 Compacting 1@1 + 1@2 files
-2026/03/17-09:52:06.027890 16f387000 Generated table #42@1: 11 keys, 1695 bytes
-2026/03/17-09:52:06.027896 16f387000 Compacted 1@1 + 1@2 files => 1695 bytes
-2026/03/17-09:52:06.027947 16f387000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/03/17-09:52:06.028032 16f387000 Delete type=2 #37
-2026/03/17-09:52:06.028105 16f387000 Delete type=2 #41
-2026/03/17-09:52:06.030354 16f387000 Manual compaction at level-1 from '!playlists.sounds!tOfycvhKW8uEwi8J.m3kpa5hk5iXkdbFn' @ 67 : 0 .. '!playlists.sounds!p8lvOOSyx9xVyMUE.m3kpa5hk5iXkdbFn' @ 0 : 0; will stop at (end)
+2026/03/17-11:52:11.227732 174c43000 Recovering log #40
+2026/03/17-11:52:11.228277 174c43000 Delete type=3 #38
+2026/03/17-11:52:11.228353 174c43000 Delete type=0 #40
+2026/03/17-11:55:24.021738 16d97f000 Level-0 table #46: started
+2026/03/17-11:55:24.021985 16d97f000 Level-0 table #46: 0 bytes OK
+2026/03/17-11:55:24.022369 16d97f000 Delete type=0 #44
+2026/03/17-11:55:24.022859 16d97f000 Manual compaction at level-0 from '!playlists!UnXEpUAlNZUuVd5C' @ 72057594037927935 : 1 .. '!playlists.sounds!p8lvOOSyx9xVyMUE.m3kpa5hk5iXkdbFn' @ 0 : 0; will stop at (end)
+2026/03/17-11:55:24.023696 16d97f000 Manual compaction at level-1 from '!playlists!UnXEpUAlNZUuVd5C' @ 72057594037927935 : 1 .. '!playlists.sounds!p8lvOOSyx9xVyMUE.m3kpa5hk5iXkdbFn' @ 0 : 0; will stop at (end)

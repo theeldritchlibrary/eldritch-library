@@ -1,8 +1,15 @@
-2026/03/17-09:11:49.120406 175633000 Recovering log #58
-2026/03/17-09:11:49.120960 175633000 Delete type=0 #58
-2026/03/17-09:11:49.121010 175633000 Delete type=3 #56
-2026/03/17-09:52:06.055572 16f387000 Level-0 table #64: started
-2026/03/17-09:52:06.055691 16f387000 Level-0 table #64: 0 bytes OK
-2026/03/17-09:52:06.055874 16f387000 Delete type=0 #62
-2026/03/17-09:52:06.060050 16f387000 Manual compaction at level-0 from '!adventures!u7f4gFoaM86C2aRd' @ 72057594037927935 : 1 .. '!adventures!u7f4gFoaM86C2aRd' @ 0 : 0; will stop at (end)
-2026/03/17-09:52:06.060536 16f387000 Manual compaction at level-1 from '!adventures!u7f4gFoaM86C2aRd' @ 72057594037927935 : 1 .. '!adventures!u7f4gFoaM86C2aRd' @ 0 : 0; will stop at (end)
+2026/03/17-11:52:11.219356 173c2b000 Recovering log #63
+2026/03/17-11:52:11.219822 173c2b000 Delete type=0 #63
+2026/03/17-11:52:11.219862 173c2b000 Delete type=3 #61
+2026/03/17-11:55:24.029110 16d97f000 Level-0 table #68: started
+2026/03/17-11:55:24.030451 16d97f000 Level-0 table #68: 106981 bytes OK
+2026/03/17-11:55:24.030767 16d97f000 Delete type=0 #66
+2026/03/17-11:55:24.031207 16d97f000 Manual compaction at level-0 from '!adventures!u7f4gFoaM86C2aRd' @ 72057594037927935 : 1 .. '!adventures!u7f4gFoaM86C2aRd' @ 0 : 0; will stop at (end)
+2026/03/17-11:55:24.031243 16d97f000 Manual compaction at level-1 from '!adventures!u7f4gFoaM86C2aRd' @ 72057594037927935 : 1 .. '!adventures!u7f4gFoaM86C2aRd' @ 0 : 0; will stop at '!adventures!u7f4gFoaM86C2aRd' @ 12 : 1
+2026/03/17-11:55:24.031261 16d97f000 Compacting 1@1 + 1@2 files
+2026/03/17-11:55:24.032887 16d97f000 Generated table #69@1: 1 keys, 105856 bytes
+2026/03/17-11:55:24.032907 16d97f000 Compacted 1@1 + 1@2 files => 105856 bytes
+2026/03/17-11:55:24.032988 16d97f000 compacted to: files[ 1 0 1 0 0 0 0 ]
+2026/03/17-11:55:24.033055 16d97f000 Delete type=2 #60
+2026/03/17-11:55:24.033421 16d97f000 Delete type=2 #68
+2026/03/17-11:55:24.035328 16d97f000 Manual compaction at level-1 from '!adventures!u7f4gFoaM86C2aRd' @ 12 : 1 .. '!adventures!u7f4gFoaM86C2aRd' @ 0 : 0; will stop at (end)
